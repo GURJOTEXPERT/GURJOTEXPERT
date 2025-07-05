@@ -1,8 +1,20 @@
 
-# 🛡️ Gurjot Singh – Cybersecurity Researcher
+<h1 align="center">🛡️ Gurjot Singh – Cybersecurity Researcher</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Cybersecurity+Researcher;Red+Team+Enthusiast;Hardware+Hacker;Malware+Reverse+Engineer;CTF+Addict+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GURJOTEXPERT&theme=gruvbox&margin-w=15&no-frame=true" />
+</p>
+
+---
+
+## 🧰 Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,html,js,linux,raspberrypi,arduino" />
 </p>
 
 ---
@@ -99,6 +111,8 @@ Hardware Skills: HID Scripting, Prototyping, Soldering, Debugging
 
 ---
 
+## 📊 GitHub Stats & Activity
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GURJOTEXPERT&show_icons=true&theme=tokyonight" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GURJOTEXPERT&layout=compact&theme=tokyonight" width="48%"/>
@@ -106,4 +120,8 @@ Hardware Skills: HID Scripting, Prototyping, Soldering, Debugging
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=GURJOTEXPERT&theme=tokyonight&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GURJOTEXPERT&theme=tokyo-night" />
 </p>
