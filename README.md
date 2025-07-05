@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Cybersecurity+Researcher;Red+Team+Enthusiast;Hardware+Hacker;Malware+Reverse+Engineer;CTF+Addict+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GURJOTEXPERT&theme=gruvbox&margin-w=15&no-frame=true" />
-</p>
-
 ---
 
 ## 🧰 Toolbox
